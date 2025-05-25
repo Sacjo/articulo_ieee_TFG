@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.20)  25 MAY 2025 20:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.20)  25 MAY 2025 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,319 +547,319 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <imagenes_doc/segu_biometrica_1.jpg, id=66, 1033.8625pt x 689.57625pt>
 File: imagenes_doc/segu_biometrica_1.jpg Graphic file (type jpg)
 <use imagenes_doc/segu_biometrica_1.jpg>
-Package pdftex.def Info: imagenes_doc/segu_biometrica_1.jpg  used on input line 121.
+Package pdftex.def Info: imagenes_doc/segu_biometrica_1.jpg  used on input line 119.
 (pdftex.def)             Requested size: 159.333pt x 106.27292pt.
  [2 <./imagenes_doc/segu_biometrica_1.jpg>]
 <imagenes_doc/Reconocimiento_Facial.jpg, id=85, 240.9pt x 166.9437pt>
 File: imagenes_doc/Reconocimiento_Facial.jpg Graphic file (type jpg)
 <use imagenes_doc/Reconocimiento_Facial.jpg>
-Package pdftex.def Info: imagenes_doc/Reconocimiento_Facial.jpg  used on input line 142.
+Package pdftex.def Info: imagenes_doc/Reconocimiento_Facial.jpg  used on input line 140.
 (pdftex.def)             Requested size: 159.333pt x 110.42006pt.
 <imagenes_doc/registroimg.jpg, id=91, 1149.29375pt x 489.83pt>
 File: imagenes_doc/registroimg.jpg Graphic file (type jpg)
 <use imagenes_doc/registroimg.jpg>
-Package pdftex.def Info: imagenes_doc/registroimg.jpg  used on input line 164.
+Package pdftex.def Info: imagenes_doc/registroimg.jpg  used on input line 162.
 (pdftex.def)             Requested size: 199.1693pt x 84.88441pt.
 
-Overfull \hbox (11.38115pt too wide) in paragraph at lines 164--165
+Overfull \hbox (11.38115pt too wide) in paragraph at lines 162--163
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 [3 <./imagenes_doc/Reconocimiento_Facial.jpg> <./imagenes_doc/registroimg.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []|\OT1/cmr/bx/n/10 Tipo de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []|\OT1/cmr/bx/n/10 Causa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 \OT1/cmr/bx/n/10 iden-ti-fi-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 []|\OT1/cmr/bx/n/10 Ajuste o
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 \OT1/cmr/bx/n/10 so-lu-ci^^Son
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 203--203
+Underfull \hbox (badness 5446) in paragraph at lines 201--201
 []|\OT1/cmr/m/n/10 Falsos po-si-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 \OT1/cmr/m/n/10 iden-ti-fi-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 []|\OT1/cmr/m/n/10 Umbral de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 \OT1/cmr/m/n/10 si-mi-li-tud
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 \OT1/cmr/m/n/10 ade-cua-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 \OT1/cmr/m/n/10 da-tos por
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 []|\OT1/cmr/m/n/10 Se ajust^^So
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 \OT1/cmr/m/n/10 el um-bral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 \OT1/cmr/m/n/10 din^^Sami-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 \OT1/cmr/m/n/10 la can-ti-dad
  []
 
 
-Overfull \hbox (12.1224pt too wide) in paragraph at lines 205--205
+Overfull \hbox (12.1224pt too wide) in paragraph at lines 203--203
 []|\OT1/cmr/m/n/10 Reconocimiento
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 205--205
+Underfull \hbox (badness 5374) in paragraph at lines 203--203
 \OT1/cmr/m/n/10 err^^Soneo con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 \OT1/cmr/m/n/10 po-ca ilu-mi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 \OT1/cmr/m/n/10 con-di-cio-nes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 \OT1/cmr/m/n/10 o som-bras
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \OT1/cmr/m/n/10 pre-pro-ce-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \OT1/cmr/m/n/10 sa-mien-to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \OT1/cmr/m/n/10 de ima-gen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \OT1/cmr/m/n/10 (me-jo-ra de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \OT1/cmr/m/n/10 con-tras-te y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \OT1/cmr/m/n/10 nor-ma-li-za-
  []
 
 
-Overfull \hbox (6.65018pt too wide) in paragraph at lines 207--207
+Overfull \hbox (6.65018pt too wide) in paragraph at lines 205--205
 []|\OT1/cmr/m/n/10 Procesamiento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 \OT1/cmr/m/n/10 len-to con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 \OT1/cmr/m/n/10 gran vo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 \OT1/cmr/m/n/10 lu-men de
  []
 
 
-Overfull \hbox (0.90019pt too wide) in paragraph at lines 207--207
+Overfull \hbox (0.90019pt too wide) in paragraph at lines 205--205
 []|\OT1/cmr/m/n/10 Comparaci^^Son
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 \OT1/cmr/m/n/10 se-cuen-cial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 \OT1/cmr/m/n/10 em-bed-dings
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 []|\OT1/cmr/m/n/10 Se im-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 ple-ment^^So
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 pro-ba-ble y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 li-mi-ta-ci^^Son
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 del n^^Sume-ro
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 de com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 pa-ra-cio-nes
  []
 
 
-Overfull \hbox (20.52834pt too wide) in paragraph at lines 199--210
+Overfull \hbox (20.52834pt too wide) in paragraph at lines 197--208
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []|$\OT1/cmr/m/n/7 100 \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \OT1/cmr/m/n/7 m^^Sas fle-xi-bi-li-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
 []|\OT1/cmr/m/n/7 Acepta di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
 []|$\OT1/cmr/m/n/7 100 \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
 []|\OT1/cmr/m/n/7 Tolerante,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
 \OT1/cmr/m/n/7 pue-de ha-ber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
 \OT1/cmr/m/n/7 fal-sos po-si-ti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 \OT1/cmr/m/n/7 em-bed-dings
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 \OT1/cmr/m/n/7 fue-ron ge-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 []|$\OT1/cmr/m/n/7 100 \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (10.16603pt too wide) in paragraph at lines 219--229
+Overfull \hbox (10.16603pt too wide) in paragraph at lines 217--227
  [][] 
  []
 
-<imagenes/3.png, id=105, 1421.31pt x 596.2275pt>
+<imagenes/3.png, id=106, 1421.31pt x 596.2275pt>
 File: imagenes/3.png Graphic file (type png)
 <use imagenes/3.png>
-Package pdftex.def Info: imagenes/3.png  used on input line 237.
+Package pdftex.def Info: imagenes/3.png  used on input line 235.
 (pdftex.def)             Requested size: 159.333pt x 66.8316pt.
-[4]
-<imagenes/umbral1.8min_dist20.jpg, id=119, 1606.0pt x 950.55125pt>
+<imagenes/umbral1.8min_dist20.jpg, id=108, 1606.0pt x 950.55125pt>
 File: imagenes/umbral1.8min_dist20.jpg Graphic file (type jpg)
 <use imagenes/umbral1.8min_dist20.jpg>
-Package pdftex.def Info: imagenes/umbral1.8min_dist20.jpg  used on input line 244.
+Package pdftex.def Info: imagenes/umbral1.8min_dist20.jpg  used on input line 242.
 (pdftex.def)             Requested size: 159.333pt x 94.29196pt.
+[4]
 <imagenes/4.png, id=120, 706.64pt x 634.37pt>
 File: imagenes/4.png Graphic file (type png)
 <use imagenes/4.png>
-Package pdftex.def Info: imagenes/4.png  used on input line 253.
+Package pdftex.def Info: imagenes/4.png  used on input line 251.
 (pdftex.def)             Requested size: 159.333pt x 143.03683pt.
 <imagenes/4.4.jpg, id=121, 1284.8pt x 751.80875pt>
 File: imagenes/4.4.jpg Graphic file (type jpg)
 <use imagenes/4.4.jpg>
-Package pdftex.def Info: imagenes/4.4.jpg  used on input line 260.
+Package pdftex.def Info: imagenes/4.4.jpg  used on input line 258.
 (pdftex.def)             Requested size: 159.333pt x 93.2302pt.
 <imagenes/5.png, id=122, 706.64pt x 634.37pt>
 File: imagenes/5.png Graphic file (type png)
 <use imagenes/5.png>
-Package pdftex.def Info: imagenes/5.png  used on input line 271.
+Package pdftex.def Info: imagenes/5.png  used on input line 269.
 (pdftex.def)             Requested size: 159.333pt x 143.03683pt.
 <imagenes/5.5.jpg, id=123, 1606.0pt x 932.48375pt>
 File: imagenes/5.5.jpg Graphic file (type jpg)
 <use imagenes/5.5.jpg>
-Package pdftex.def Info: imagenes/5.5.jpg  used on input line 278.
+Package pdftex.def Info: imagenes/5.5.jpg  used on input line 276.
 (pdftex.def)             Requested size: 159.333pt x 92.49973pt.
  [5 <./imagenes/3.png> <./imagenes/umbral1.8min_dist20.jpg> <./imagenes/4.png> <./imagenes/4.4.jpg> <./imagenes/5.png> <./imagenes/5.5.jpg>] (articulo_ieee.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 27--31
@@ -980,7 +980,7 @@ Here is how much of TeX's memory you used:
  1142 hyphenation exceptions out of 8191
  75i,15n,79p,630b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on articulo_ieee.pdf (6 pages, 1431801 bytes).
+Output written on articulo_ieee.pdf (6 pages, 1430291 bytes).
 PDF statistics:
  237 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)

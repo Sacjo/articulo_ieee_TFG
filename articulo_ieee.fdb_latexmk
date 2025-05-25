@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex articulo_ieee"] 1748214729.30486 "articulo_ieee.aux" "articulo_ieee.bbl" "articulo_ieee" 1748214732.19605 0
+["bibtex articulo_ieee"] 1748214729.30486 "articulo_ieee.aux" "articulo_ieee.bbl" "articulo_ieee" 1748215511.17788 0
   "./IEEEtran-castellano.bst" 1748208300 57746 0d1aa2bfa970b02fc94220751edbd299 ""
   "./test.bib" 1748210221 11983 440815b66ba5585d66b40bd65c6a660c ""
-  "articulo_ieee.aux" 1748214731 5534 2f3e656ad993de6dadfdc2a4106f8188 "pdflatex"
+  "articulo_ieee.aux" 1748215510 5534 2f3e656ad993de6dadfdc2a4106f8188 "pdflatex"
   (generated)
   "articulo_ieee.bbl"
   "articulo_ieee.blg"
   (rewritten before read)
-["pdflatex"] 1748214729.74729 "c:/Users/danis/Documents/portafolio/articulo_ieee/articulo_ieee.tex" "articulo_ieee.pdf" "articulo_ieee" 1748214732.19706 0
+["pdflatex"] 1748215508.62328 "c:/Users/danis/Documents/portafolio/articulo_ieee/articulo_ieee.tex" "articulo_ieee.pdf" "articulo_ieee" 1748215511.17924 0
   "C:/Users/danis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748208393 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/danis/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1732129292 24225047 59b0279435e4a070d667bfb607a7244e ""
   "C:/Users/danis/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -123,11 +123,11 @@
   "C:/Users/danis/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/danis/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/danis/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "articulo_ieee.aux" 1748214731 5534 2f3e656ad993de6dadfdc2a4106f8188 "pdflatex"
+  "articulo_ieee.aux" 1748215510 5534 2f3e656ad993de6dadfdc2a4106f8188 "pdflatex"
   "articulo_ieee.bbl" 1748214729 3788 7d2b0213ebf63a2b524c57fe59ec7396 "bibtex articulo_ieee"
-  "articulo_ieee.out" 1748214731 1609 5c1b2651335196ae454d72c2524e38d3 "pdflatex"
-  "articulo_ieee.tex" 1748214672 18340 b03abe752fa9461b128d1084de858a4a ""
-  "c:/Users/danis/Documents/portafolio/articulo_ieee/articulo_ieee.tex" 1748214672 18340 b03abe752fa9461b128d1084de858a4a ""
+  "articulo_ieee.out" 1748215510 1609 5c1b2651335196ae454d72c2524e38d3 "pdflatex"
+  "articulo_ieee.tex" 1748215507 18272 fbfc764963959e1ad1fece97ca3d6ce3 ""
+  "c:/Users/danis/Documents/portafolio/articulo_ieee/articulo_ieee.tex" 1748215507 18272 fbfc764963959e1ad1fece97ca3d6ce3 ""
   "imagenes/3.png" 1748210190 81300 cb60229bceb96412170989d2cb47532d ""
   "imagenes/4.4.jpg" 1748210190 95377 36b58362e3940840d2a082d231e56d66 ""
   "imagenes/4.png" 1748210190 70473 da5486c59f0cb35d31ce45c03bab8ac9 ""
